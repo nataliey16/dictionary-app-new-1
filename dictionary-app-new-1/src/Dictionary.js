@@ -25,7 +25,6 @@ export default function Dictionary() {
 
   return (
     <div className="Dictionary">
-      <h1 className="header">hello</h1>
       <form className="Dictionary-search-engine" onChange={handleKeywordChange}>
         <div className="row">
           <input
